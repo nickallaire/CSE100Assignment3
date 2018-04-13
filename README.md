@@ -1,1 +1,3 @@
-# CSE100Assignment3
+# CSE 100: Advanced Data Structures Assignment 3
+
+Project Overview: The goal of this assignment is to implement an autocomplete program using BST, Hashtable, and Trie. The BST is used to create a Dictionary that has the functions insert, find, and getSize. The Hashtable is used to create a Dictionary as well that has the functions insert, find, and getSize. The Trie is used to create another Dictionary that has the functions insert, find, predictCompletions, and deleteAll. All data structures have the ability to load data into them with the util.cpp file. The programs benchdict.cpp and benchtrie.cpp are used to test the implementations of the data structures.
